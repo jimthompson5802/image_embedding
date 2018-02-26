@@ -1,5 +1,6 @@
 myphotos
 embeddings_logs
+myphotos_embeddings_logs
 cat_dog_embeddings_logs
 .ipynb_checkpoints
 mnist_model
